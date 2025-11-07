@@ -73,9 +73,9 @@ Este projeto apresenta um e-mail de Black Friday desenvolvido com foco em estrut
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top"><video src="https://github.com/user-attachments/assets/3cd88a3f-6f16-487b-b1c7-ab9973b78ca5" width="30%" controls></video>
+    <td width="50%" valign="top"><video src="https://github.com/user-attachments/assets/3cd88a3f-6f16-487b-b1c7-ab9973b78ca5" controls></video>
     </td>
-    <td width="50%" align="center"><video src="https://github.com/user-attachments/assets/fbfb53ff-f6f0-4cbc-abfb-1d8458013318" width="70%" controls></video>
+    <td width="50%" align="center"><video src="https://github.com/user-attachments/assets/fbfb53ff-f6f0-4cbc-abfb-1d8458013318" controls></video>
     </td>
   </tr>
 </table>
