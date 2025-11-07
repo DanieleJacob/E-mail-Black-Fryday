@@ -69,12 +69,13 @@ Este projeto apresenta um e-mail de Black Friday desenvolvido com foco em estrut
 <br>
 <div align="center">
 
-  
-  <!-- <img src="https://github.com/DanieleJacob/E-mail-institucional/blob/main/images/Captura%20de%20tela%202025-10-17%20180838.png?raw=true" 
-    width=250px>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/DanieleJacob/E-mail-institucional/blob/main/images/Captura%20de%20tela%202025-10-17%20180853.png?raw=true" width= 250px valign="top">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/DanieleJacob/E-mail-institucional/blob/main/images/Captura%20de%20tela%202025-10-17%20180901.png?raw=true" width= 250px valign="top"> -->
+
+<div>
+https://github.com/user-attachments/assets/86e84cf5-67e7-4ba6-ac2a-ecf719058321
+
+https://github.com/user-attachments/assets/255da6e0-d1ea-4f7f-8f15-16f0b085d8e3
+</div>
+
 </div>
 
 
