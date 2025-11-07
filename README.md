@@ -80,6 +80,9 @@ Este projeto apresenta um e-mail de Black Friday desenvolvido com foco em estrut
   </tr>
 </table>
 
+<img width="220" height="920" alt="Captura de tela 2025-11-06 092832" src="https://github.com/user-attachments/assets/4181db27-3749-42e5-99e3-44031e2642f6" />
+
+
 </div>
 
 
