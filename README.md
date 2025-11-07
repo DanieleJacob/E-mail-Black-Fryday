@@ -1,7 +1,6 @@
 <h1>📧 E-mail Black friday</h1>
 
-<p>Este projeto apresenta um e-mail institucional desenvolvido com foco em estrutura limpa, boas práticas e compatibilidade entre clientes de e-mail.
-O template foi criado do zero, seguindo padrões profissionais de HTML para e-mails, garantindo uma renderização consistente e responsiva em diferentes dispositivos e plataformas.</p> 
+<p>Este projeto apresenta um e-mail de Black Friday desenvolvido com foco em estrutura limpa, boas práticas e compatibilidade entre clientes de e-mail. O template original foi obtido na plataforma Stripo. **Créditos:** crédito ao criador do design e à comunidade Stripo pela base do layout.</p> 
 <br>
 <br>
 <h1>🛠️ Tecnologias utilizadas</h1>
